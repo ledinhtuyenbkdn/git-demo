@@ -1,0 +1,3 @@
+config katalon
+config jenkins
+config static analys tool
